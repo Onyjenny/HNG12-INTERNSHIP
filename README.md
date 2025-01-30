@@ -13,7 +13,7 @@ The Total sales is 2,297,200.86 and the total profit is 286,397.02
 
 Highest Sales Region: The West region has the highest sales with a value of 725,457.82
 
-Lowest Sales Region: TThe South has the lowest sales with a value of 391,721.82
+Lowest Sales Region: The South has the lowest sales with a value of 391,721.82
 
 Region with highest profit: West region has a high profit value of 108,418.45
 
@@ -26,7 +26,7 @@ Lowest selling category: Furniture is the lowest with a profit of 18,451.27,cont
 Top selling sub-category: Phones is the highest selling sub-category of product with a value of 330,007.05
 Lowest selling sub-category: Fasteners is the lowest selling sub-category with 3,024.28
 
-The cosumer segment contributes the most to the total sales with a value of  50.56 %
+The consumer segment contributes the most to the total sales with a value of  50.56 %
 
 Home office segment contributes the least with a value of 18.70 % of total sales.
 
